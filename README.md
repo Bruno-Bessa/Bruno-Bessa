@@ -1,4 +1,10 @@
-### <p>Olá, eu sou o Bruno Bessa! 🙋‍♂️</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3eb3d6&height=120&section=header"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3eb3d6&size=35&center=true&vCenter=true&width=1000&lines=Hello+World🌎!,+I'm+Bruno+Bessa!;Tenho+30+anos.;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas+.;Sejam+Bem+Vindos!🤖!)](https://git.io/typing-svg)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3eb3d6&height=120&section=footer"/>
 
 - Cursando o 1º periodo em Análise e Desenvolvimento de Sistemas, na Faculdade Universidade de Mogi das Cruzes.
 - Trabalho atualmente na empresa Selbetti
@@ -28,4 +34,8 @@
   
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Bessa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   
-![Snake animation](https://github.com/carlafranchi01/carlafranchi01/blob/output/github-contribution-grid-snake.svg)
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Bruno-Bessa}/count.svg" /></p> 
+<br>
+</div>
